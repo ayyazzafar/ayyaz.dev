@@ -16,7 +16,9 @@ started: "2020"
 featured: true
 order: 2
 screenshots:
-  - /screenshots/ayyaztech-youtube.png
+  - /screenshots/ayyaztech-channel-home.png
+  - /screenshots/ayyaztech-videos-list.png
+  - /screenshots/ayyaztech-video-watch.png
 ---
 
 ## About AyyazTech
