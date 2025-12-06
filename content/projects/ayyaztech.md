@@ -15,6 +15,8 @@ url: https://youtube.com/@AyyazTech
 started: "2020"
 featured: true
 order: 2
+screenshots:
+  - /screenshots/ayyaztech-youtube.png
 ---
 
 ## About AyyazTech

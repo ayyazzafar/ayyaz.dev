@@ -11,6 +11,8 @@ url: https://neonnutri.ayyaztech.com/
 started: "2024"
 featured: false
 order: 5
+screenshots:
+  - /screenshots/neonnutri.png
 ---
 
 ## About NeonNutri

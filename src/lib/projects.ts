@@ -18,6 +18,7 @@ export interface Project {
   completed?: string;
   featured?: boolean;
   order?: number;
+  screenshots?: string[];
   content: string;
 }
 
@@ -49,6 +50,7 @@ export function getAllProjects(): Project[] {
         completed: data.completed,
         featured: data.featured || false,
         order: data.order || 999,
+        screenshots: data.screenshots || [],
         content,
       } as Project;
     });
