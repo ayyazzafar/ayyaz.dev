@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllProjectSlugs, getProjectBySlug } from "@/lib/projects";
 import { markdownToHtml } from "@/lib/markdown";
-import { BrowserMockup } from "@/components/BrowserMockup";
+import { ScreenshotCarousel } from "@/components/ScreenshotCarousel";
 import type { Metadata } from "next";
 
 interface PageProps {
@@ -123,16 +123,11 @@ export default async function ProjectPage({ params }: PageProps) {
       {project.screenshots && project.screenshots.length > 0 && (
         <section className="mb-12">
           <h2 className="text-xl font-semibold text-white mb-6">Screenshots</h2>
-          <div className="space-y-6">
-            {project.screenshots.map((screenshot, index) => (
-              <BrowserMockup
-                key={index}
-                src={screenshot}
-                alt={`${project.title} screenshot ${index + 1}`}
-                url={project.url}
-              />
-            ))}
-          </div>
+          <ScreenshotCarousel
+            screenshots={project.screenshots}
+            projectTitle={project.title}
+            url={project.url}
+          />
         </section>
       )}
 
