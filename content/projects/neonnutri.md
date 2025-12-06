@@ -12,11 +12,9 @@ started: "2024"
 featured: false
 order: 5
 screenshots:
-  - /screenshots/neonnutri-mobile-top.png
-  - /screenshots/neonnutri-mobile-graph.png
-  - /screenshots/neonnutri-mobile-entries.png
-  - /screenshots/neonnutri-add-entry.png
-  - /screenshots/neonnutri-landing.png
+  - /screenshots/neonnutri-desktop-dashboard.png
+  - /screenshots/neonnutri-desktop-graph.png
+  - /screenshots/neonnutri-desktop-entries.png
 ---
 
 ## About NeonNutri
