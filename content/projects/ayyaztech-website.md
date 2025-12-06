@@ -17,8 +17,12 @@ featured: false
 order: 5
 screenshots:
   - /screenshots/ayyaztech-website-home.png
+  - /screenshots/ayyaztech-website-pagination.png
   - /screenshots/ayyaztech-website-post.png
+  - /screenshots/ayyaztech-website-post-content.png
+  - /screenshots/ayyaztech-website-tags.png
   - /screenshots/ayyaztech-website-categories.png
+  - /screenshots/ayyaztech-website-contact.png
 ---
 
 ## About AyyazTech.com
