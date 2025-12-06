@@ -16,26 +16,16 @@ started: "2024"
 featured: true
 order: 1
 screenshots:
-  - src: /screenshots/spendnest/spendnest-dashboard.png
-    alt: SpendNest Dashboard with spending analytics, budget status, and upcoming recurrences
-  - src: /screenshots/spendnest/spendnest-transaction-create.png
-    alt: Create Transaction form with AI Assistant for natural language entry
-  - src: /screenshots/spendnest/spendnest-transactions.png
-    alt: Transactions list with running balances, categories, and vendors
-  - src: /screenshots/spendnest/spendnest-recurring.png
-    alt: Recurring Expenses management with frequency charts and upcoming payments
-  - src: /screenshots/spendnest/spendnest-budgets.png
-    alt: Budget tracking with daily, monthly, and yearly periods
-  - src: /screenshots/spendnest/spendnest-accounts.png
-    alt: Multi-account management with balances across different currencies
-  - src: /screenshots/spendnest/spendnest-transfers.png
-    alt: Inter-account transfers for savings and credit card payments
-  - src: /screenshots/spendnest/spendnest-categories.png
-    alt: Expense categories with descriptions
-  - src: /screenshots/spendnest/spendnest-vendors.png
-    alt: Vendor management for tracking where money is spent
-  - src: /screenshots/spendnest/spendnest-settings.png
-    alt: User settings with timezone and currency preferences
+  - /screenshots/spendnest/spendnest-dashboard.png
+  - /screenshots/spendnest/spendnest-transaction-create.png
+  - /screenshots/spendnest/spendnest-transactions.png
+  - /screenshots/spendnest/spendnest-recurring.png
+  - /screenshots/spendnest/spendnest-budgets.png
+  - /screenshots/spendnest/spendnest-accounts.png
+  - /screenshots/spendnest/spendnest-transfers.png
+  - /screenshots/spendnest/spendnest-categories.png
+  - /screenshots/spendnest/spendnest-vendors.png
+  - /screenshots/spendnest/spendnest-settings.png
 ---
 
 ## About SpendNest
