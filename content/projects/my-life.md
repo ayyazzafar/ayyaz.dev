@@ -9,7 +9,6 @@ tech:
   - Claude AI
   - Markdown
   - Git
-github: https://github.com/ayyazzafar/my-life
 started: "2025"
 featured: true
 order: 3
