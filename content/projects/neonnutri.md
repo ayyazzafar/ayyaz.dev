@@ -12,9 +12,9 @@ started: "2024"
 featured: false
 order: 5
 screenshots:
-  - /screenshots/neonnutri-landing.png
-  - /screenshots/neonnutri-dashboard.png
+  - /screenshots/neonnutri-dashboard-with-data.png
   - /screenshots/neonnutri-add-entry.png
+  - /screenshots/neonnutri-landing.png
   - /screenshots/neonnutri-goal-selection.png
   - /screenshots/neonnutri-set-targets.png
 ---
